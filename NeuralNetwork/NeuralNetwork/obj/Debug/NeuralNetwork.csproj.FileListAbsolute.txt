@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
